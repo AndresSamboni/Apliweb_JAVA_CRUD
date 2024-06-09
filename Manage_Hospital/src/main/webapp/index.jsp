@@ -12,8 +12,25 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World from HTML!</h1>
-        <% String hello = "Hello world from JSP"; %>
-        <h2><%=hello %></h2>
+        <h1>Datos del cliente</h1>
+        <form action="SvUsuario" method="POST">
+            <p>
+                <label>Dni:</label>
+                <input type="text" name="dni">
+            </p>
+            <p>
+                <label>Nombre:</label>
+                <input type="text" name="nombre">
+            </p>
+            <p>
+                <label>Apellido:</label>
+                <input type="text" name="apellido">
+            </p>
+            <p>
+                <label>Teléfono:</label>
+                <input type="text" name="telefono">
+            </p>
+            <input type="submit" value="Enviar" name="enviar" />
+        </form>
     </body>
 </html>
