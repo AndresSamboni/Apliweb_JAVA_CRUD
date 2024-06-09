@@ -1,0 +1,57 @@
+08-Jun-2024 22:23:08.235 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.89
+08-Jun-2024 22:23:08.242 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      May 3 2024 20:22:11 UTC
+08-Jun-2024 22:23:08.243 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.89.0
+08-Jun-2024 22:23:08.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+08-Jun-2024 22:23:08.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+08-Jun-2024 22:23:08.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+08-Jun-2024 22:23:08.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-21
+08-Jun-2024 22:23:08.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       21.0.2+13-LTS-58
+08-Jun-2024 22:23:08.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+08-Jun-2024 22:23:08.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89
+08-Jun-2024 22:23:08.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89
+08-Jun-2024 22:23:08.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Jun-2024 22:23:08.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+08-Jun-2024 22:23:08.265 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+08-Jun-2024 22:23:08.265 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Jun-2024 22:23:08.265 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Jun-2024 22:23:08.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\conf\logging.properties
+08-Jun-2024 22:23:08.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Jun-2024 22:23:08.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+08-Jun-2024 22:23:08.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Jun-2024 22:23:08.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+08-Jun-2024 22:23:08.267 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89
+08-Jun-2024 22:23:08.267 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89
+08-Jun-2024 22:23:08.267 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\temp
+08-Jun-2024 22:23:08.273 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.3.0] con la versión APR [1.7.4].
+08-Jun-2024 22:23:08.273 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+08-Jun-2024 22:23:08.274 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+08-Jun-2024 22:23:08.287 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.13 30 Jan 2024]
+08-Jun-2024 22:23:09.061 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+08-Jun-2024 22:23:09.110 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1353] milliseconds
+08-Jun-2024 22:23:09.266 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+08-Jun-2024 22:23:09.267 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.89]
+08-Jun-2024 22:23:09.432 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\webapps\docs] de la aplicación web
+08-Jun-2024 22:23:10.204 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\webapps\docs] has finished in [766] ms
+08-Jun-2024 22:23:10.205 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\webapps\examples] de la aplicación web
+08-Jun-2024 22:23:11.047 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\webapps\examples] has finished in [842] ms
+08-Jun-2024 22:23:11.047 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\webapps\host-manager] de la aplicación web
+08-Jun-2024 22:23:11.106 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\webapps\host-manager] has finished in [59] ms
+08-Jun-2024 22:23:11.107 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\webapps\manager] de la aplicación web
+08-Jun-2024 22:23:11.175 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\webapps\manager] has finished in [67] ms
+08-Jun-2024 22:23:11.176 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\webapps\ROOT] de la aplicación web
+08-Jun-2024 22:23:11.220 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\webapps\ROOT] has finished in [44] ms
+08-Jun-2024 22:23:11.232 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Jun-2024 22:23:11.300 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2187] milliseconds
+08-Jun-2024 22:34:20.946 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\conf\Catalina\localhost\Manage_Hospital.xml]
+08-Jun-2024 22:34:20.949 WARNING [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Manage_Hospital] in deployment descriptor [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\conf\Catalina\localhost\Manage_Hospital.xml] has been ignored
+08-Jun-2024 22:34:21.015 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\conf\Catalina\localhost\Manage_Hospital.xml] has finished in [69] ms
+08-Jun-2024 22:34:21.020 INFO [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Manage_Hospital]] after start() had already been called. The second call will be ignored.
+08-Jun-2024 22:35:19.900 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/Manage_Hospital]
+08-Jun-2024 22:35:19.936 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\conf\Catalina\localhost\Manage_Hospital.xml]
+08-Jun-2024 22:35:19.938 WARNING [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Manage_Hospital] in deployment descriptor [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\conf\Catalina\localhost\Manage_Hospital.xml] has been ignored
+08-Jun-2024 22:35:19.983 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Aprendizaje\University\Apliweb_JAVA_CRUD\server\apache-tomcat-9.0.89\conf\Catalina\localhost\Manage_Hospital.xml] has finished in [47] ms
+08-Jun-2024 22:35:19.987 INFO [http-nio-8080-exec-5] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Manage_Hospital]] after start() had already been called. The second call will be ignored.
+08-Jun-2024 22:42:02.858 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/Manage_Hospital]
+08-Jun-2024 22:42:02.859 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/Manage_Hospital]
+08-Jun-2024 22:42:02.924 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
